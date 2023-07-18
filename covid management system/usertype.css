@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+    justify-content: center;
+ 
+}
+
+form button{
+    justify-content: center;
+    text-align: center;
+   width: 150px; 
+   height: 40px;
+   border-radius: 10px transparent;
+   background: rgb(61, 4, 219);
+   color: white;
+}
